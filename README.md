@@ -1,21 +1,19 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm ABHISHEK PANDIT</h1>
-<h3 align="center">A passionate Embedded Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sapna kumari</h1>
+<h3 align="center">A passionate AWS Engineer from India</h3>
 
-<h3 align="left">🧑‍💻 I’m currently working on <b>Engine Control System</b> as A <b>Senior Designer</b></h3>
+<h3 align="left">🧑‍💻 I’m currently working on <b>AWS Cloud </b></h3>
 
-<h3 align="left">⚙️ I’m currently Working With <b>C, C++ & Python</b></h3>
+<h3 align="left">⚙️ I’m currently Working With <b> AWS: EC2, S3, VPC, IAM, RDS, Lambda, CloudWatch </b></h3>
 
-<h3 align="left">👯 I’m looking to collaborate on <b>Embedded Projects</b></h3>
+<h3 align="left">👯 I’m looking to collaborate on <b>Cloud Projects</b></h3>
 
-<h3 align="left">📫 How to reach me <b>abhishekpandit28@gmail.com</b></h3>
+<h3 align="left">📫 How to reach me <b>sapnakumari7355@gmail.com</b></h3>
 
-<h3 align="left">⚡ Fun fact <b>Coder in day, Gamer @ night</b></h3><br>
 
 # 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/abhishek-pandit-2a377a126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-pandit-2a377a126" height="90" width="100" /></a>
-<a href="https://twitter.com/ABHISHEKPA0508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="90" width="100" /></a>
+<a href="https://www.linkedin.com/in/sapna-kumari-17407b219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-pandit-2a377a126" height="90" width="100" /></a>
 
 </p><br>
 
